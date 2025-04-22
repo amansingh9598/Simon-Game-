@@ -1,4 +1,4 @@
- Simon Game 🎮🟢🔴🟡🔵  
+# Simon Game 🎮🟢🔴🟡🔵  
 
 This is a Simon Game built using HTML, CSS, and JavaScript. The game tests your memory by challenging you to repeat an ever-growing sequence of colors and sounds.  
 
